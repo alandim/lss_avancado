@@ -1,15 +1,13 @@
-# Teste Qui-Quadrado e ANOVA
+# Teste Qui-Quadrado
 
-## Teste Qui-Quadrado
-
-### O que é o Teste Qui-Quadrado?
+## O que é o Teste Qui-Quadrado?
 O teste Qui-Quadrado (χ²) é um teste estatístico usado para determinar se há uma diferença significativa entre as frequências observadas e as frequências esperadas em uma ou mais categorias.
 
-### Quando usar o Teste Qui-Quadrado?
+## Quando usar o Teste Qui-Quadrado?
 - Para testar a independência entre duas variáveis categóricas (teste de independência).
 - Para testar a adequação de um modelo de distribuição (teste de bondade de ajuste).
 
-### Como calcular o Teste Qui-Quadrado?
+## Como calcular o Teste Qui-Quadrado?
 1. **Formulação das Hipóteses:**
    - H0 (Hipótese Nula): Não há diferença significativa entre as frequências observadas e esperadas.
    - H1 (Hipótese Alternativa): Existe uma diferença significativa entre as frequências observadas e esperadas.
@@ -28,7 +26,7 @@ O teste Qui-Quadrado (χ²) é um teste estatístico usado para determinar se h�
 4. **Comparação e Decisão:**
    - Comparar o valor calculado com o valor crítico da tabela. Se \( χ² \) calculado for maior que o valor crítico, rejeita-se a hipótese nula.
 
-### Exemplo Prático
+## Exemplo Prático
 Vamos supor que temos um restaurante que oferece três tipos de sobremesas e queremos testar se a preferência dos clientes por essas sobremesas é independente do gênero.
 
 | Sobremesa | Homens (O) | Mulheres (O) | Total |
